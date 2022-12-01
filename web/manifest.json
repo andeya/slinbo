@@ -1,11 +1,11 @@
 {
-    "name": "flutter_rust_bridge_template",
-    "short_name": "flutter_rust_bridge_template",
+    "name": "slinbo",
+    "short_name": "slinbo",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "A personal chat application.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
